@@ -1,0 +1,25 @@
+C:\Program Files\Adobe
+C:\Program Files\Arquivos Comuns
+C:\Program Files\Common Files
+C:\Program Files\Dolby
+C:\Program Files\Git
+C:\Program Files\Google
+C:\Program Files\Internet Explorer
+C:\Program Files\Java
+C:\Program Files\Microsoft Office
+C:\Program Files\Microsoft Office 15
+C:\Program Files\Microsoft OneDrive
+C:\Program Files\Microsoft Update Health Tools
+C:\Program Files\ModifiableWindowsApps
+C:\Program Files\NVIDIA Corporation
+C:\Program Files\Realtek
+C:\Program Files\Uninstall Information
+C:\Program Files\Windows Defender
+C:\Program Files\Windows Mail
+C:\Program Files\Windows Media Player
+C:\Program Files\Windows NT
+C:\Program Files\Windows Photo Viewer
+C:\Program Files\Windows Sidebar
+C:\Program Files\WindowsApps
+C:\Program Files\WindowsPowerShell
+C:\Program Files\WinRAR
