@@ -27,6 +27,11 @@ public class Program {
     	   System.out.println(""+ errorLeitura.getMessage());
        }
        
+       boolean sucess = new File("c:\\subdir").mkdir();
+       System.out.println(sucess);
+       
+       boolean sucess02 = new File("c:\\subdir").delete();
+       System.out.println(sucess02);
    
 	}
 }
